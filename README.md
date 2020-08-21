@@ -13,7 +13,8 @@ So each participant will create their own dashboard - they'll collect data indiv
 ## Mentors
 
  - [Samriddhi Jain](https://github.com/sammjainn)
- - 
+ - [Iftikhar Alam](https://github.com/IAlam0819)
+
 
 ## Contribution Guidelines
 
